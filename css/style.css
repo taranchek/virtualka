@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;700&display=swap');
+@import url('https://fonts.google.com/specimen/Montserrat?query=mont');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Comfortaa';
+    font-family: 'Montserrat';
     outline: none;
     border: 0;
 }
